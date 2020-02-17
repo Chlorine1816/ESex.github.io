@@ -3,5 +3,3 @@ Hello and welcome to this blog !
 ![Image of fast.ai logo](images/38150523_2105081776209281_8082613355644190720_n.jpg)
 
 ## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
