@@ -7,11 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: ESex
-description: Happy blogging... ❤
-github_username: false
+description: 微博传送门 ❤
+github_username: None
 
 # Email and twitter are optional:
-email:
+email: 1258946515@qq.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
