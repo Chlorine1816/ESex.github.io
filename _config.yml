@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: ESex's Blog
+title: ESex
 description: Happy blogging... ❤
-#github_username:
+github_username: None
 
 # Email and twitter are optional:
-email: 
+email:
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
