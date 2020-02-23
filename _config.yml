@@ -8,7 +8,7 @@
 
 title: ESex
 description: 微博传送门 ❤
-github_username: None
+# github_username: None
 
 # Email and twitter are optional:
 email: 1258946515@qq.com
@@ -38,6 +38,6 @@ markdown: kramdown
 kramdown:
   math_engine: katex
   input: GFM
-  auto_ids: true
+  auto_ids: false
   hard_wrap: false
   syntax_highlighter: rouge
