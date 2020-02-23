@@ -10,7 +10,7 @@ baseurl: ""
 #注意此处最好为空引用，否则将导致网址的重叠。例如加了url一样的内容就会造成两遍重复url地址造成异常。
 url: "chlorine1816.github.io" 
 
-permalink: none
+#permalink: none
 
 title: Share With U
 description: 微博传送门 ❤
@@ -18,7 +18,6 @@ github_username: Chlorine1816
 
 # Email and twitter are optional:
 email: 1258946515@qq.com
-twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math:
