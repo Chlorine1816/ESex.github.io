@@ -1,5 +1,3 @@
-# About
-
-This is where you put the contents of your *About* page.
+# 说明
 
 *Please @ESex in [Weibo](https://weibo.com/).*
