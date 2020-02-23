@@ -10,6 +10,7 @@ baseurl: ""
 #注意此处最好为空引用，否则将导致网址的重叠。例如加了url一样的内容就会造成两遍重复url地址造成异常。
 url: "chlorine1816.github.io" 
 
+host : 192.168.132.129 
 #permalink: none
 
 title: Share With U
