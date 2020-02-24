@@ -1,3 +1,3 @@
 # About
 
-*Please @ESex in [Weibo](https://weibo.com/).*
+![logo](/images/微博logo.png)  *@ESex in [Weibo](https://weibo.com/).*
