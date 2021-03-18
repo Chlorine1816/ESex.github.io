@@ -1,9 +1,10 @@
-![IMG202002231](./images/山1.jpg)  
-# Python 脚本获取仓库 Secrets
-## 添加 Secrets
-打开仓库「Settings」中的「Secrets」，点击「New secret」。
-## 配置 GitHub Actions
+![IMG202002231](/images/山1.jpg)  
+## Python 脚本获取仓库 Secrets
+### 添加 Secrets
+打开仓库「Settings」中的「Secrets」，点击「New secret」
+### 配置 GitHub Actions
 编辑.yml文件
+
 '''
 name: 程序名称
 
@@ -37,8 +38,9 @@ jobs:
           python ./code/main.py
 
 '''
-## Python 脚本中获取环境变量
+### Python 脚本中获取环境变量
 main.py
+
 '''
 import os
 
