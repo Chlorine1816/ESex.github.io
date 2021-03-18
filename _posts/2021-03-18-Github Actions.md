@@ -1,11 +1,11 @@
 ![IMG202002231](/images/山1.jpg)  
 ## Python 脚本获取仓库 Secrets
-### 添加 Secrets
+### 1.添加 Secrets
 打开仓库「Settings」中的「Secrets」，点击「New secret」
-### 配置 GitHub Actions
+### 2.配置 GitHub Actions
 编辑.yml文件
 
-'''
+...
 name: 程序名称
 
 on: 
@@ -36,14 +36,13 @@ jobs:
           SCKEY: ${{ secrets.SCKEY }}
         run: 
           python ./code/main.py
-
-'''
-### Python 脚本中获取环境变量
+...
+### 3.Python 脚本中获取环境变量
 main.py
 
-'''
+```
 import os
 
 if __name__=='__main__':
     SCKEY=os.environ['SCKEY']
-'''
+```
