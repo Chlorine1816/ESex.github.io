@@ -5,7 +5,7 @@
 ### 2.配置 GitHub Actions
 编辑.yml文件
 
-...
+```
 name: 程序名称
 
 on: 
@@ -36,7 +36,8 @@ jobs:
           SCKEY: ${{ secrets.SCKEY }}
         run: 
           python ./code/main.py
-...
+```
+
 ### 3.Python 脚本中获取环境变量
 main.py
 
