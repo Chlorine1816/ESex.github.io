@@ -33,7 +33,7 @@ jobs:
       
       - name: Working
         env:
-          SCKEY: ${{ secrets.SCKEY }}
+          **SCKEY: $ { { secrets.SCKEY } }**
         run: 
           python ./code/main.py
 ```
